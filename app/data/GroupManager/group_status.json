@@ -26,5 +26,9 @@
     {
         "group_id": 953065853,
         "banned_words_status": true
+    },
+    {
+        "group_id": 914802812,
+        "banned_words_status": true
     }
 ]
