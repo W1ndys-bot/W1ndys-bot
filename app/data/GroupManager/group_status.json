@@ -30,5 +30,17 @@
     {
         "group_id": 118976506,
         "banned_words_status": true
+    },
+    {
+        "group_id": 273882385,
+        "video_check_status": true,
+        "banned_words_status": true,
+        "invite_chain_status": true,
+        "welcome_status": true,
+        "farewell_status": true
+    },
+    {
+        "group_id": 914802812,
+        "banned_words_status": true
     }
 ]
