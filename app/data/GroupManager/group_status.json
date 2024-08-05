@@ -38,9 +38,5 @@
         "invite_chain_status": true,
         "welcome_status": true,
         "farewell_status": true
-    },
-    {
-        "group_id": 914802812,
-        "banned_words_status": true
     }
 ]
