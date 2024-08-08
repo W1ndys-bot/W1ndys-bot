@@ -24,5 +24,23 @@
             "教室有空调吗": "新校区教室空调全覆盖，老校区部分教室也有空调。",
             "宿舍有空调吗": "包有的"
         }
+    },
+    {
+        "keyword": "Easy-QFNU",
+        "question": {
+            "站点监控": "https://status.w1ndys.top/status/easy-qfnu#/"
+        }
+    },
+    {
+        "keyword": "银行卡",
+        "question": {
+            "开学前能激活吗": "可以激活"
+        }
+    },
+    {
+        "keyword": "床铺",
+        "question": {
+            "床垫规格": "新生手册是195×90，自己买建议200x90"
+        }
     }
 ]
