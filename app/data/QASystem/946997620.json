@@ -22,7 +22,8 @@
         "question": {
             "写军训心得吗": "不用,有文职连专门写的",
             "军训服有必要两套吗": "最多订一套，一晚上差不多干了，也可以用宿舍里的公共吹风机吹吹",
-            "军训袜子": "要长袜，一般是纯黑，不能有其他花色其他颜色其他样式"
+            "军训袜子": "要长袜，一般是纯黑，不能有其他花色其他颜色其他样式",
+            "收集阳光": "[CQ:image,file=0348778C724B3619518FC1E93EC9478B.jpg,subType=0,file_id=00000000-3872-0974-66b8-773775027494,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgoyNzY5NzMxODc1EhSsCpGewxGD1FOYBxlOiiL_-uLXxRjt0Q4g_woo0t_WyMPshwNQgL2jAQ&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMq8tFI5ZEQR148ybUwfUROKZOteAWqTvRNXhXykDwd00,file_size=239853]"
         }
     },
     {
@@ -54,6 +55,13 @@
         "keyword": "证件照",
         "question": {
             "证件照需要几寸": "可以先存好电子版，到时候需要几寸就去打印，也可以一二寸都打方便备用"
+        }
+    },
+    {
+        "keyword": "宿舍",
+        "question": {
+            "宿舍每个桌子都有插座吗": "都有",
+            "宿舍床位怎么分配": "一般床位是谁去了谁先选，极少数是学院分配好的（已知化院是分配的），具体看学院安排"
         }
     }
 ]
