@@ -8,7 +8,7 @@
     {
         "keyword": "床铺",
         "question": {
-            "床垫规格": "新生手册是195×90[CQ:image,file=8B7CD45DEBB02BAAA668FADD04005A61.jpg,subType=0,file_id=00000000-3872-0974-66ba-063100781528,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgoyNzY5NzMxODc1EhQSOviQlFd23ACVaTmnckBUsQefsRjsjwUg_woohPvlh8DvhwNQgL2jAQ&amp;spec=0&amp;rkey=CAESKBkcro_MGujo-M7wB4zrHxedanGckg3g6G6JflAl3IgM-USdJ8klRCs,file_size=83948]"
+            "床垫规格": "新生手册是195×90"
         }
     },
     {
@@ -60,13 +60,20 @@
         "keyword": "宿舍",
         "question": {
             "宿舍每个桌子都有插座吗": "都有",
-            "宿舍床位怎么分配": "一般床位是谁去了谁先选，极少数是学院分配好的（已知化院是分配的），具体看学院安排"
+            "宿舍床位怎么分配": "一般床位是谁去了谁先选，极少数是学院分配好的（已知化院是分配的），具体看学院安排",
+            "宿舍几人一间": "一般六人间，很少有四人间"
         }
     },
     {
         "keyword": "分班",
         "question": {
             "什么时候分班": "专业的话，等你开学报道的时候就知道自己是几班了，有的专业人少，一共也就一个班，人多的好几个班"
+        }
+    },
+    {
+        "keyword": "床多大",
+        "question": {
+            "床垫规格": "新生手册是195×90"
         }
     }
 ]
