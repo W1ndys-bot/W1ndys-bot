@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "keyword": "教务运行",
+        "question": {
+            "校历": "曲阜师范大学2024-2025校历https://jwc.qfnu.edu.cn/info/1091/7020.htm#/"
+        }
+    },
+    {
+        "keyword": "图床",
+        "question": {
+            "图床": "[CQ:image,file=https://easy-qfnu.top/Easy-School/Map/School-Map/Old1.jpg]"
+        }
+    }
+]
