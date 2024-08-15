@@ -90,5 +90,11 @@
         "question": {
             "团关系转接流程": "团关系转接需要等团支书下通知之后转，一般是开学之后才进行，没开学前自己不用管"
         }
+    },
+    {
+        "keyword": "校历",
+        "question": {
+            "校历": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-3fd1060cd5ee4bd56c6a8b87fa690a2b_1440w.webp&#93;"
+        }
     }
 ]

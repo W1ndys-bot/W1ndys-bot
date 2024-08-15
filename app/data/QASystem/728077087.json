@@ -1,14 +1,23 @@
 [
     {
-        "keyword": "教务运行",
+        "keyword": "校历",
         "question": {
-            "校历": "曲阜师范大学2024-2025校历https://jwc.qfnu.edu.cn/info/1091/7020.htm#/"
+            "校历": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-3fd1060cd5ee4bd56c6a8b87fa690a2b_1440w.webp&#93;"
         }
     },
     {
-        "keyword": "cq测试",
+        "keyword": "作息时间表",
         "question": {
-            "图床": "&#91;CQ:image,file=https://www.qfnu.edu.cn/images/2024080401.jpg&#93;"
+            "作息时间表": "https://jwc.qfnu.edu.cn/info/1104/4345.htm"
+        }
+    },
+    {
+        "keyword": "博客",
+        "question": {
+            "G神博客": "https://giantgkl.xyz",
+            "k神博客": "https://kiki1e.github.io/link/",
+            "兵哥博客": "http://xiaowaaa.asia/#/",
+            "严哥博客": "http://blog.chi11i.fun/"
         }
     }
 ]
