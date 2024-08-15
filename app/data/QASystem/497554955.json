@@ -96,5 +96,11 @@
         "question": {
             "校历": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-3fd1060cd5ee4bd56c6a8b87fa690a2b_1440w.webp&#93;"
         }
+    },
+    {
+        "keyword": "公选课",
+        "question": {
+            "公选课选多少": "一般是大于等于2分，24级可能会有政策变化（大于等于3分），具体要看各专业的培养方案"
+        }
     }
 ]
