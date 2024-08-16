@@ -3,7 +3,8 @@
         "keyword": "选课指北",
         "question": {
             "密码": "Welcome_to_Easy-QFNU_and_QFNU",
-            "地址": "https://easy-qfnu.top/Easy-SelectCourse/"
+            "地址": "https://easy-qfnu.top/Easy-SelectCourse/",
+            "培养方案": "曲阜师范大学培养方案https://easy-qfnu.top/Easy-SelectCourse/Curriculum/"
         }
     },
     {
@@ -23,12 +24,6 @@
         "question": {
             "教室有空调吗": "新校区教室空调全覆盖，老校区部分教室也有空调。",
             "宿舍有空调吗": "包有的"
-        }
-    },
-    {
-        "keyword": "Easy-QFNU",
-        "question": {
-            "站点监控": "https://status.w1ndys.top/status/easy-qfnu#/"
         }
     },
     {
@@ -101,6 +96,13 @@
         "keyword": "公选课",
         "question": {
             "公选课选多少": "一般是大于等于2分，24级可能会有政策变化（大于等于3分），具体要看各专业的培养方案"
+        }
+    },
+    {
+        "keyword": "地图",
+        "question": {
+            "日照校区地图": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-93a5aad41f90f91d7790792a2a1cd44b_720w.webp&#93;",
+            "全部地图": "曲阜日照全部地图请看这：https://easy-qfnu.top/Easy-School/Map/"
         }
     }
 ]

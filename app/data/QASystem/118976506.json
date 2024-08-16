@@ -4,5 +4,17 @@
         "question": {
             "校历": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-3fd1060cd5ee4bd56c6a8b87fa690a2b_1440w.webp&#93;"
         }
+    },
+    {
+        "keyword": "地图",
+        "question": {
+            "日照校区地图": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-93a5aad41f90f91d7790792a2a1cd44b_720w.webp&#93;"
+        }
+    },
+    {
+        "keyword": "选课指北",
+        "question": {
+            "培养方案": "曲阜师范大学培养方案https://easy-qfnu.top/Easy-SelectCourse/Curriculum/"
+        }
     }
 ]
