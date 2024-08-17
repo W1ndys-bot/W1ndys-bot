@@ -104,5 +104,11 @@
             "日照校区地图": "&#91;CQ:image,file=https://pic4.zhimg.com/80/v2-93a5aad41f90f91d7790792a2a1cd44b_720w.webp&#93;",
             "全部地图": "曲阜日照全部地图请看这：https://easy-qfnu.top/Easy-School/Map/"
         }
+    },
+    {
+        "keyword": "智慧曲园",
+        "question": {
+            "智慧曲园下载地址": "Easy-QFNU更新了关于智慧曲园的下载链接，详情请看\nhttps://easy-qfnu.top/Easy-School/Smart-Quyuan/\n\n现在你有三种方法可以下载\n1.群文件的压缩包\n2.网站的百度网盘链接\n3.网站的123网盘链接\n\n考虑到百度网盘的吃相比较难看，非SVIP限速，所以做了123网盘分流，123网盘支持浏览器下载无需客户端，不限速（123打钱！）"
+        }
     }
 ]
