@@ -1,8 +1,20 @@
 [
     {
-        "keyword": " 大G哥",
+        "keyword": "大G哥",
         "question": {
             "g": "[CQ:face,id=5]牢[CQ:face,id=5]G[CQ:face,id=5]G[CQ:face,id=5]神[CQ:face,id=5]"
+        }
+    },
+    {
+        "keyword": "大林子",
+        "question": {
+            "林子": "臭写内核的"
+        }
+    },
+    {
+        "keyword": "W1ndys",
+        "question": {
+            "硕神": "真正的神！"
         }
     }
 ]
