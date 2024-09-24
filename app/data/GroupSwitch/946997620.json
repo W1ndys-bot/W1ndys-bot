@@ -1,7 +1,7 @@
 {
     "视频监控": false,
     "违禁词监控": false,
-    "欢迎欢送": true,
+    "欢迎欢送": false,
     "知识库": true,
     "邀请链记录": true,
     "QFNU资产处公告监控": true,
