@@ -3,6 +3,7 @@
 import json
 import logging
 import sqlite3
+from datetime import datetime
 
 from config import *
 
@@ -559,6 +560,17 @@ async def get_group_member_info(websocket, group_id, user_id, no_cache=False):
             return response_data
 
 
+# 获取群成员入群时间戳并转换为日期时间
+def get_group_member_join_time(group_id, user_id, group_member_info):
+    join_time = group_member_info.get("data", {}).get("join_time", 0)
+    # 将时间戳转换为日期时间
+    join_time_datetime = datetime.fromtimestamp(join_time)
+    logging.info(
+        f"[API]已获取群 {group_id} 的用户 {user_id} 入群时间戳: {join_time}, 转换后时间: {join_time_datetime}"
+    )
+    return join_time_datetime
+
+
 # 获取群成员列表
 async def get_group_member_list(websocket, group_id, no_cache=False):
     group_member_list_msg = {
@@ -572,7 +584,14 @@ async def get_group_member_list(websocket, group_id, no_cache=False):
         response_data = json.loads(response)
         if response_data.get("echo") == "get_group_member_list":
             logging.info(f"[API]已获取群 {group_id} 的成员列表。")
-            return response_data.get("data", {})
+            return response_data.get("data", [])
+
+
+# 获取群成员列表返回QQ号数组
+async def get_group_member_list_qq(websocket, group_id):
+    group_member_list = await get_group_member_list(websocket, group_id)
+    logging.info(f"[API]已获取群 {group_id} 的成员列表QQ号数组。")
+    return [member.get("user_id") for member in group_member_list]
 
 
 # 获取群荣誉信息
