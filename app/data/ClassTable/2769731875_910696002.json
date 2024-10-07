@@ -1,0 +1,5920 @@
+{
+    "1": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "丁允念",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "丁允念",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "孙金玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "孙金玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "高思明",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "高思明",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "相青",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "相青",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "马振华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "马振华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "胡乃永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "胡乃永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "韦宁",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "韦宁",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "曹亚楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "曹亚楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "丁允念",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生就业与创业指导",
+                    "room": "综合教学楼501",
+                    "teacher": "丁允念",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "认知智能中的知识构建研究专题研讨(分组02)",
+                    "room": "格物楼B203",
+                    "teacher": "周子力",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "软件基础实验室301",
+                    "teacher": "臧小东",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "15": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "7": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "习近平新时代中国特色社会主义思想概论",
+                    "room": "致知楼B201",
+                    "teacher": "马健永",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "16": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "17": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    },
+    "18": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼B112",
+                    "teacher": "胡春美",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "数据挖掘",
+                    "room": "格物楼A106",
+                    "teacher": "胡春美",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "2": {
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "网络对抗原理",
+                    "room": "格物楼B306",
+                    "teacher": "臧小东",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "课程论文（设计）1(分组03)",
+                    "room": "格物楼B318",
+                    "teacher": "路秀华",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "Python程序设计",
+                    "room": "测试实验室304",
+                    "teacher": "胡晓依",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "信息论与编码",
+                    "room": "格物楼B212",
+                    "teacher": "宋秋艳",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "格物楼B108",
+                    "teacher": "陈维洋",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "算法设计与分析",
+                    "room": "软件实训实验室201",
+                    "teacher": "陈维洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "格物楼B102",
+                    "teacher": "马旭",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ]
+        },
+        "6": {
+            "1": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "致知楼B202",
+                    "teacher": "马旭",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "致知楼B202",
+                    "teacher": "马旭",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "密码学引论",
+                    "room": "致知楼B202",
+                    "teacher": "马旭",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心202",
+                    "teacher": "",
+                    "startTime": "15:30",
+                    "endTime": "16:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "16:30",
+                    "endTime": "17:20"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "",
+                    "startTime": "17:30",
+                    "endTime": "18:20"
+                }
+            ]
+        }
+    }
+}
