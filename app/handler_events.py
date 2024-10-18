@@ -127,7 +127,9 @@ async def handle_message_event(websocket, msg):
             await handle_LockGroupCard_group_message(websocket, msg)  # 群名片锁
             await handle_GroupManager_group_message(websocket, msg)  # 群管系统
             await handle_crypto_group_message(websocket, msg)  # 编解码功能
-            await handle_tools_group_message(websocket, msg)  # 实用的API工具功能
+            asyncio.create_task(
+                handle_tools_group_message(websocket, msg)
+            )  # 实用的API工具功能
             await handle_qasystem_message_group(websocket, msg)  # 处理知识库问答系统
             await handle_KeywordsReply_group_message(websocket, msg)  # 处理关键词回复
             await handle_blacklist_message_group(websocket, msg)  # 处理黑名单系统
@@ -140,11 +142,11 @@ async def handle_message_event(websocket, msg):
             await handle_QFNUTracker_group_message(
                 websocket, msg
             )  # 处理QFNU追踪器开关消息
-            await handle_ai_group_message(websocket, msg)  # 处理ai群消息
+            asyncio.create_task(handle_ai_group_message(websocket, msg))  # 处理ai群消息
             await handle_Custom_group_message(websocket, msg)  # 处理自定义群消息
             await handle_CollectTheSun_group_message(websocket, msg)  # 处理收集阳光
             await handle_NoAddOne_group_message(websocket, msg)  # 处理打断复读
-            await handle_WeatherSubscribe_task_Msg(websocket, msg)  # 处理天气订阅
+            # await handle_WeatherSubscribe_task_Msg(websocket, msg)  # 处理天气订阅
             await handle_ClassTable_group_message(websocket, msg)  # 处理课程表
 
         # 处理私聊消息
