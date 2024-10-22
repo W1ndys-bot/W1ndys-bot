@@ -1,0 +1,4312 @@
+{
+    "4": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "博文馆215[媒99]",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "军事理论与实践",
+                    "room": "科技馆602[媒128]",
+                    "teacher": "李学娇",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "逸夫楼239[媒130]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆413[媒99]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "职业规划与就业指导1",
+                    "room": "外文馆009[媒144]",
+                    "teacher": "宋广昊,丛东升,赵冬慧,李学娇",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "形势与政策1",
+                    "room": "博文馆304[媒99]",
+                    "teacher": "李宝军,史松梅",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "15": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "逸夫楼231[媒100]",
+                    "teacher": "魏珑",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机科学导论与伦理",
+                    "room": "计算机专业实验室2",
+                    "teacher": "魏珑",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "16": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "17": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "思想道德与法治(2022)",
+                    "room": "产融B105[媒200]",
+                    "teacher": "许晓,王辉",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        }
+    },
+    "18": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "博文馆108[媒159]",
+                    "teacher": "高希霞",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 0,
+                    "courseName": "高等数学A1",
+                    "room": "博文馆409[媒214]",
+                    "teacher": "魏瑞菊",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "心理健康教育1",
+                    "room": "信息馆417[媒297]",
+                    "teacher": "赵冬慧,栾天",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "19": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "博文馆314[媒159]",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "线性代数A",
+                    "room": "博文馆112[媒159]",
+                    "teacher": "蔡杰,李珅",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "程序设计基础(JS)",
+                    "room": "计算机专业实验室1",
+                    "teacher": "马晓娜",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学英语1",
+                    "room": "科技馆302[媒128]",
+                    "teacher": "高希霞",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学体育1(武术1)",
+                    "room": "",
+                    "teacher": "王军",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        }
+    }
+}
