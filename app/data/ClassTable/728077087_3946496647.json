@@ -1,0 +1,5858 @@
+{
+    "1": {
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "2": {
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "3": {
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B208",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B208",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B208",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B208",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B208",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B208",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "赵开开",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "耿春亮",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 3,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼306",
+                    "teacher": "张乾坤",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 11,
+                    "courseName": "打扫卫生",
+                    "room": "吱吱楼A105",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 11,
+                    "courseName": "打扫卫生",
+                    "room": "吱吱楼A105",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "15": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "9": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 9,
+                    "courseName": "马克思主义哲学",
+                    "room": "致知楼B111",
+                    "teacher": "蒋开天",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "16": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 8,
+                    "courseName": "大学生心理健康教育",
+                    "room": "致知楼B102",
+                    "teacher": "周平艳",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "17": {
+        "1": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "法学概论",
+                    "room": "致知楼B212",
+                    "teacher": "鲁昕",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 4,
+                    "courseName": "中国近代史",
+                    "room": "格物楼B106",
+                    "teacher": "陈洪友",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "毛泽东思想概论",
+                    "room": "致知楼B109",
+                    "teacher": "马健永",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "18": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "大学英语1(2024级历史、马院、网安)",
+                    "room": "格物楼B111",
+                    "teacher": "秦泗武",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "孔子与《论语》",
+                    "room": "致知楼B102",
+                    "teacher": "张光耀",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业规划",
+                    "room": "实验中心A401",
+                    "teacher": "满林彦",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                },
+                {
+                    "courseId": 5,
+                    "courseName": "体育-乒乓球(音乐、马克思)",
+                    "room": "生科西边老干部活动中心",
+                    "teacher": "刘成",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "19": {
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "20": {
+        "4": {
+            "1": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 10,
+                    "courseName": "自习",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        }
+    }
+}
