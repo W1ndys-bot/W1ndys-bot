@@ -3174,6 +3174,26 @@
                     "startTime": "17:00",
                     "endTime": "17:50"
                 }
+            ],
+            "5": [
+                {
+                    "courseId": 16,
+                    "courseName": "校长讲座",
+                    "room": "孔子会堂",
+                    "teacher": "张洪海",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 16,
+                    "courseName": "校长讲座",
+                    "room": "孔子会堂",
+                    "teacher": "张洪海",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
             ]
         },
         "4": {
