@@ -1,0 +1,3840 @@
+{
+    "1": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业发展与就业",
+                    "room": "2-215",
+                    "teacher": "宫招阳",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业发展与就业",
+                    "room": "2-215",
+                    "teacher": "宫招阳",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "3": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业发展与就业",
+                    "room": "2-215",
+                    "teacher": "宫招阳",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业发展与就业",
+                    "room": "2-215",
+                    "teacher": "宫招阳",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业发展与就业",
+                    "room": "2-215",
+                    "teacher": "宫招阳",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 7,
+                    "courseName": "大学生职业发展与就业",
+                    "room": "2-215",
+                    "teacher": "宫招阳",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-115",
+                    "teacher": "毛淑华",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "大学生创新创业基础",
+                    "room": "2-117",
+                    "teacher": "毛淑华",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "阶十",
+                    "teacher": "马志柔",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 1,
+                    "courseName": "线性代数",
+                    "room": "2-412",
+                    "teacher": "马志柔",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:00",
+                    "endTime": "19:45"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "19:55",
+                    "endTime": "20:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "3": {
+            "7": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 8,
+                    "courseName": "Python",
+                    "room": "国防楼508",
+                    "teacher": "黄宗翔",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        },
+        "4": {
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 2,
+                    "courseName": "马克思主义基本原理",
+                    "room": "2-113",
+                    "teacher": "张韩",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "3": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "3": {
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-412",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "2-416",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "6": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "7": {
+            "1": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 6,
+                    "courseName": "数据结构",
+                    "room": "国防楼508",
+                    "teacher": "戴晟晖",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "形势与政策",
+                    "room": "2-113",
+                    "teacher": "王强，许志文，徐洪珍",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        }
+    },
+    "15": {
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "1-207",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                },
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "3": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ]
+        }
+    },
+    "16": {
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "大学进阶英语",
+                    "room": "2-607",
+                    "teacher": "万虹",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        }
+    },
+    "17": {
+        "2": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "2-504",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "1-109",
+                    "teacher": "徐鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ]
+        }
+    },
+    "18": {
+        "4": {
+            "1": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "08:00",
+                    "endTime": "08:45"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "08:55",
+                    "endTime": "09:40"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "10:00",
+                    "endTime": "10:45"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "10:55",
+                    "endTime": "11:40"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:00",
+                    "endTime": "14:45"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "14:55",
+                    "endTime": "15:40"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "16:00",
+                    "endTime": "16:45"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 5,
+                    "courseName": "计算机网络",
+                    "room": "国防楼508",
+                    "teacher": "涂鸿凯",
+                    "startTime": "16:55",
+                    "endTime": "17:40"
+                }
+            ]
+        }
+    }
+}

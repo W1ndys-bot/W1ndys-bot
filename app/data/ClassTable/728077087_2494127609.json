@@ -1,0 +1,5794 @@
+{
+    "1": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "2": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "6": {
+            "1": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "3": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "4": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "6": {
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "12": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "22:00",
+                    "endTime": "22:50"
+                }
+            ]
+        }
+    },
+    "5": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "6": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "7": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "7": {
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B212",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B212",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B212",
+                    "teacher": "王来花",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        }
+    },
+    "8": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "9": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "卢巧玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "10": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "洪亚玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "洪亚玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "11": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "洪亚玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "洪亚玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "12": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "洪亚玲",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "洪亚玲",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "13": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 10,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼301",
+                    "teacher": "邱金芝",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "赵兴卯",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "赵兴卯",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "14": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "高鹏",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "赵兴卯",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "赵兴卯",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "15": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "赵兴卯",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "赵兴卯",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼206",
+                    "teacher": "杨玲玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "16": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "相青",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "相青",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    },
+    "17": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "程序设计实践",
+                    "room": "软件基础实验室301",
+                    "teacher": "叶永凯",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "实验中心A315",
+                    "teacher": "王来花",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "相青",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "相青",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        }
+    },
+    "18": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "体育-羽毛球",
+                    "room": "公体球类馆03",
+                    "teacher": "赵哲哲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 6,
+                    "courseName": "大学英语3（普通）(2023级网安)",
+                    "room": "格物楼B101",
+                    "teacher": "梁莎",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "艺术导论",
+                    "room": "综合教学楼101",
+                    "teacher": "亓校盛",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "计算机组成原理",
+                    "room": "格物楼B213",
+                    "teacher": "王来花",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 4,
+                    "courseName": "离散数学",
+                    "room": "格物楼B212",
+                    "teacher": "路秀华",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 0,
+                    "courseName": "概率论与数理统计",
+                    "room": "格物楼B213",
+                    "teacher": "孙涛",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "1": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "数据结构实践",
+                    "room": "格物楼A216",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "相青",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼601",
+                    "teacher": "相青",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 9,
+                    "courseName": "美术鉴赏",
+                    "room": "综合教学楼406",
+                    "teacher": "竺传铠",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ]
+        },
+        "2": {
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "数据结构",
+                    "room": "格物楼B213",
+                    "teacher": "齐苏敏",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 13,
+                    "courseName": "Java程序设计(分组03)",
+                    "room": "格物楼B213",
+                    "teacher": "郭吉楠",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ]
+        }
+    }
+}
