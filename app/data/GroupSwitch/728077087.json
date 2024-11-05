@@ -9,5 +9,6 @@
     "关键词回复": true,
     "打断复读": false,
     "欢迎": true,
-    "欢送": true
+    "欢送": true,
+    "词云统计": true
 }
