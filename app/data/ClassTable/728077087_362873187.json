@@ -3194,6 +3194,16 @@
                     "startTime": "15:00",
                     "endTime": "15:50"
                 }
+            ],
+            "4": [
+                {
+                    "courseId": 19,
+                    "courseName": "扫地",
+                    "room": "生科后花园",
+                    "teacher": "苟",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
             ]
         },
         "4": {

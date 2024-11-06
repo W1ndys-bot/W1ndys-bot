@@ -1,0 +1,5690 @@
+{
+    "1": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "4": {
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "2": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "3": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "6": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "老文史楼211",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "老文史楼211",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "老文史楼211",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "4": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "郭洋洋",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "郭洋洋",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "5": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "王哲",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "6": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "郭春晓",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "7": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "姚淑敏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "姚淑敏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "姚淑敏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "姚淑敏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "8": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "徐金会",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "9": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 7,
+                    "courseName": "四史教育",
+                    "room": "综合教学楼406",
+                    "teacher": "徐峰",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "3": {
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "王哲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "王哲",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 12,
+                    "courseName": "教师职业道德与专业发展",
+                    "room": "西联1",
+                    "teacher": "毕钰",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "窦海龙",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "窦海龙",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "窦海龙",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "10": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "11": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "7": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "窦海龙",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "窦海龙",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "窦海龙",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "12": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "13": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 6,
+                    "courseName": "形势与政策专题三",
+                    "room": "综合教学楼601",
+                    "teacher": "郗来军",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 10,
+                    "courseName": "人体组织解剖学(分组01)",
+                    "room": "实验中心D区D409、D411",
+                    "teacher": "郭洋洋",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "14": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 11,
+                    "courseName": "生物课件制作与应用",
+                    "room": "生物楼128",
+                    "teacher": "郭春晓",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 15,
+                    "courseName": "微生物学实验(分组02)",
+                    "room": "实验中心D区D406、D408",
+                    "teacher": "王明鹏",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "15": {
+        "2": {
+            "1": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 0,
+                    "courseName": "马克思主义基本原理",
+                    "room": "综合教学楼301",
+                    "teacher": "杨玲玲",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "微生物学",
+                    "room": "生物楼326",
+                    "teacher": "王明鹏",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        },
+        "1": {
+            "5": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 5,
+                    "courseName": "生物统计学",
+                    "room": "生物楼114",
+                    "teacher": "韦钦国",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ]
+        }
+    },
+    "16": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 2,
+                    "courseName": "生物化学(分组02)",
+                    "room": "实验中心D区D513、D515",
+                    "teacher": "徐德立",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        }
+    },
+    "17": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    },
+    "18": {
+        "3": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 3,
+                    "courseName": "人体组织解剖学",
+                    "room": "综合教学楼306",
+                    "teacher": "窦海龙",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 13,
+                    "courseName": "简明教育史",
+                    "room": "综合教学楼301",
+                    "teacher": "田晓苗",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ]
+        },
+        "6": {
+            "1": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 4,
+                    "courseName": "体育-跳绳(分组06)",
+                    "room": "校北篮球场",
+                    "teacher": "伊士礼",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ]
+        },
+        "4": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "13:30",
+                    "endTime": "14:20"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "国家安全教育",
+                    "room": "综合教学楼501",
+                    "teacher": "杜晨曦",
+                    "startTime": "14:30",
+                    "endTime": "15:20"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "15:40",
+                    "endTime": "16:30"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 1,
+                    "courseName": "生物化学",
+                    "room": "生物楼128",
+                    "teacher": "徐德立",
+                    "startTime": "16:40",
+                    "endTime": "17:30"
+                }
+            ],
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "18:30",
+                    "endTime": "19:20"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "19:30",
+                    "endTime": "20:20"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学日语3",
+                    "room": "格物楼B413",
+                    "teacher": "袁广伟",
+                    "startTime": "20:30",
+                    "endTime": "21:20"
+                }
+            ]
+        }
+    }
+}
