@@ -1,0 +1,7 @@
+本群是2024级网络空间安全协会新生专群，大家有问题可以直接在群里问
+
+推荐阅读
+新手入门引导：https://hello-ctf.com/
+提问的智慧：https://lug.ustc.edu.cn/wiki/doc/smart-questions/
+刷题网站：https://www.qsnctf.com/、https://buuoj.cn/、https://www.nssctf.cn/、https://adworld.xctf.org.cn/、https://ctf.show/
+其他刷题或训练网站汇总：https://blog.csdn.net/qq_51550750/article/details/122748075#/
