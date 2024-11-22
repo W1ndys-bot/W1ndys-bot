@@ -3998,26 +3998,6 @@
                     "startTime": "11:10",
                     "endTime": "12:00"
                 }
-            ],
-            "5": [
-                {
-                    "courseId": 11,
-                    "courseName": "打扫卫生",
-                    "room": "吱吱楼A105",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 11,
-                    "courseName": "打扫卫生",
-                    "room": "吱吱楼A105",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
             ]
         },
         "5": {
@@ -4105,6 +4085,26 @@
                     "teacher": "",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 11,
+                    "courseName": "打扫卫生",
+                    "room": "吱吱楼A105",
+                    "teacher": "",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 11,
+                    "courseName": "打扫卫生",
+                    "room": "吱吱楼A105",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
                 }
             ]
         }
