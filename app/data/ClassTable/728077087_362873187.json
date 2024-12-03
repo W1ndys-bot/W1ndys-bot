@@ -4540,36 +4540,6 @@
                     "startTime": "17:00",
                     "endTime": "17:50"
                 }
-            ],
-            "9": [
-                {
-                    "courseId": 11,
-                    "courseName": "大学生心理健康教育",
-                    "room": "综合教学楼601",
-                    "teacher": "吕邈",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "大学生心理健康教育",
-                    "room": "综合教学楼601",
-                    "teacher": "吕邈",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "大学生心理健康教育",
-                    "room": "综合教学楼601",
-                    "teacher": "吕邈",
-                    "startTime": "21:00",
-                    "endTime": "21:50"
-                }
             ]
         },
         "3": {
@@ -4797,6 +4767,26 @@
                     "teacher": "满林彦",
                     "startTime": "15:00",
                     "endTime": "15:50"
+                }
+            ],
+            "1": [
+                {
+                    "courseId": 21,
+                    "courseName": "找导员谈话",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "08:00",
+                    "endTime": "08:50"
+                }
+            ],
+            "2": [
+                {
+                    "courseId": 21,
+                    "courseName": "找导员谈话",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "09:00",
+                    "endTime": "09:50"
                 }
             ]
         },
@@ -5747,6 +5737,16 @@
                     "teacher": "侯会君",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "14": [
+                {
+                    "courseId": 20,
+                    "courseName": "大心健",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "21:45",
+                    "endTime": "21:50"
                 }
             ]
         },
