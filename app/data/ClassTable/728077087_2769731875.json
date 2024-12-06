@@ -259,26 +259,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -297,6 +277,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -615,26 +615,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -653,6 +633,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -917,26 +917,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -955,6 +935,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -1273,26 +1273,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -1311,6 +1291,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -1595,26 +1595,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -1633,6 +1613,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -2001,26 +2001,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -2039,6 +2019,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -2323,26 +2323,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -2361,6 +2341,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -2729,26 +2729,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -2767,6 +2747,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -3051,26 +3051,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -3089,6 +3069,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -3417,26 +3417,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -3455,6 +3435,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -3699,26 +3699,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -3737,6 +3717,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -4065,26 +4065,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -4103,6 +4083,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -4347,26 +4347,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -4385,6 +4365,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -4693,26 +4693,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -4731,6 +4711,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -4955,26 +4955,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -4993,6 +4973,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         },
@@ -5269,26 +5269,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -5307,6 +5287,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -5559,26 +5559,6 @@
                     "endTime": "09:50"
                 }
             ],
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -5597,6 +5577,26 @@
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
                 }
             ]
         }
@@ -5873,26 +5873,6 @@
             ]
         },
         "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
             "7": [
                 {
                     "courseId": 11,
@@ -5912,10 +5892,72 @@
                     "startTime": "17:00",
                     "endTime": "17:50"
                 }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
             ]
         }
     },
     "19": {
+        "5": {
+            "7": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "硕神",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
+                }
+            ],
+            "8": [
+                {
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
+                    "teacher": "硕神",
+                    "startTime": "17:00",
+                    "endTime": "17:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
+                    "teacher": "",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ]
+        },
         "3": {
             "7": [
                 {
@@ -5932,48 +5974,6 @@
                     "courseId": 10,
                     "courseName": "网络信息中心值班",
                     "room": "网络信息中心",
-                    "teacher": "硕神",
-                    "startTime": "17:00",
-                    "endTime": "17:50"
-                }
-            ]
-        },
-        "5": {
-            "5": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
-                    "teacher": "",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 11,
-                    "courseName": "院楼值班",
-                    "room": "院楼507",
-                    "teacher": "硕神",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
-            "8": [
-                {
-                    "courseId": 11,
-                    "courseName": "院楼值班",
-                    "room": "院楼507",
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
@@ -5982,12 +5982,12 @@
         }
     },
     "20": {
-        "3": {
+        "5": {
             "7": [
                 {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
                     "teacher": "硕神",
                     "startTime": "16:00",
                     "endTime": "16:50"
@@ -5995,16 +5995,14 @@
             ],
             "8": [
                 {
-                    "courseId": 10,
-                    "courseName": "网络信息中心值班",
-                    "room": "网络信息中心",
+                    "courseId": 11,
+                    "courseName": "院楼值班",
+                    "room": "院楼507",
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
                 }
-            ]
-        },
-        "5": {
+            ],
             "5": [
                 {
                     "courseId": 10,
@@ -6024,12 +6022,14 @@
                     "startTime": "15:00",
                     "endTime": "15:50"
                 }
-            ],
+            ]
+        },
+        "3": {
             "7": [
                 {
-                    "courseId": 11,
-                    "courseName": "院楼值班",
-                    "room": "院楼507",
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
                     "teacher": "硕神",
                     "startTime": "16:00",
                     "endTime": "16:50"
@@ -6037,9 +6037,9 @@
             ],
             "8": [
                 {
-                    "courseId": 11,
-                    "courseName": "院楼值班",
-                    "room": "院楼507",
+                    "courseId": 10,
+                    "courseName": "网络信息中心值班",
+                    "room": "网络信息中心",
                     "teacher": "硕神",
                     "startTime": "17:00",
                     "endTime": "17:50"
