@@ -5,5 +5,6 @@
     "违禁词监控": true,
     "邀请链记录": true,
     "欢迎": true,
-    "kuakua": false
+    "kuakua": false,
+    "词云统计": true
 }
