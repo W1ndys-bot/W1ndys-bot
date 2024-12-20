@@ -4,6 +4,6 @@
     "知识库": true,
     "群名片锁": true,
     "邀请链记录": true,
-    "打断复读": true,
-    "kuakua": true
+    "打断复读": false,
+    "kuakua": false
 }

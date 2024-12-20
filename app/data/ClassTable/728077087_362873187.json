@@ -24,28 +24,6 @@
         }
     },
     "2": {
-        "5": {
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ]
-        },
         "3": {
             "7": [
                 {
@@ -65,33 +43,33 @@
                     "teacher": "刘影",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
                 }
             ]
         }
     },
     "3": {
-        "5": {
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ]
-        },
         "3": {
             "7": [
                 {
@@ -111,6 +89,28 @@
                     "teacher": "刘影",
                     "startTime": "17:00",
                     "endTime": "17:50"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
                 }
             ]
         }
@@ -358,7 +358,7 @@
             "3": [
                 {
                     "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
+                    "courseName": "sb体育-排舞(生科）",
                     "room": "音乐学院B519",
                     "teacher": "刘影",
                     "startTime": "10:10",
@@ -368,7 +368,7 @@
             "4": [
                 {
                     "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
+                    "courseName": "sb体育-排舞(生科）",
                     "room": "音乐学院B519",
                     "teacher": "刘影",
                     "startTime": "11:10",
@@ -710,7 +710,7 @@
             "3": [
                 {
                     "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
+                    "courseName": "sb体育-排舞(生科）",
                     "room": "音乐学院B519",
                     "teacher": "刘影",
                     "startTime": "10:10",
@@ -720,7 +720,7 @@
             "4": [
                 {
                     "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
+                    "courseName": "sb体育-排舞(生科）",
                     "room": "音乐学院B519",
                     "teacher": "刘影",
                     "startTime": "11:10",
@@ -1059,6 +1059,26 @@
             ]
         },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -1087,26 +1107,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
                 }
             ]
         }
@@ -1473,6 +1473,26 @@
             ]
         },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -1501,26 +1521,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
                 }
             ]
         }
@@ -1917,6 +1917,26 @@
             ]
         },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -1945,26 +1965,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
                 }
             ]
         }
@@ -2361,6 +2361,26 @@
             ]
         },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -2389,26 +2409,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
                 }
             ]
         }
@@ -2804,7 +2804,69 @@
                 }
             ]
         },
+        "7": {
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
         "5": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼406",
+                    "teacher": "满林彦",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼406",
+                    "teacher": "满林彦",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -2833,68 +2895,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ],
-            "5": [
-                {
-                    "courseId": 8,
-                    "courseName": "形势与政策专题一",
-                    "room": "综合教学楼406",
-                    "teacher": "满林彦",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 8,
-                    "courseName": "形势与政策专题一",
-                    "room": "综合教学楼406",
-                    "teacher": "满林彦",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ]
-        },
-        "7": {
-            "9": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
                 }
             ]
         }
@@ -3320,7 +3320,69 @@
                 }
             ]
         },
+        "7": {
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
         "5": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼406",
+                    "teacher": "满林彦",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼406",
+                    "teacher": "满林彦",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -3349,68 +3411,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ],
-            "5": [
-                {
-                    "courseId": 8,
-                    "courseName": "形势与政策专题一",
-                    "room": "综合教学楼406",
-                    "teacher": "满林彦",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 8,
-                    "courseName": "形势与政策专题一",
-                    "room": "综合教学楼406",
-                    "teacher": "满林彦",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ]
-        },
-        "7": {
-            "9": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
                 }
             ]
         }
@@ -3806,7 +3806,49 @@
                 }
             ]
         },
+        "7": {
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -3835,48 +3877,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ]
-        },
-        "7": {
-            "9": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
                 }
             ]
         }
@@ -4272,7 +4272,69 @@
                 }
             ]
         },
+        "7": {
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
         "5": {
+            "5": [
+                {
+                    "courseId": 8,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼406",
+                    "teacher": "满林彦",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 8,
+                    "courseName": "形势与政策专题一",
+                    "room": "综合教学楼406",
+                    "teacher": "满林彦",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -4301,68 +4363,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ],
-            "5": [
-                {
-                    "courseId": 8,
-                    "courseName": "形势与政策专题一",
-                    "room": "综合教学楼406",
-                    "teacher": "满林彦",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 8,
-                    "courseName": "形势与政策专题一",
-                    "room": "综合教学楼406",
-                    "teacher": "满林彦",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ]
-        },
-        "7": {
-            "9": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
                 }
             ]
         }
@@ -4698,57 +4698,29 @@
                 }
             ]
         },
-        "5": {
+        "7": {
             "9": [
                 {
-                    "courseId": 12,
-                    "courseName": "植物学实验1(五班分组03)",
-                    "room": "实验中心D区D209、D211",
-                    "teacher": "刘柏玲",
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
                     "startTime": "19:00",
                     "endTime": "19:50"
                 }
             ],
             "10": [
                 {
-                    "courseId": 12,
-                    "courseName": "植物学实验1(五班分组03)",
-                    "room": "实验中心D区D209、D211",
-                    "teacher": "刘柏玲",
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
                     "startTime": "20:00",
                     "endTime": "20:50"
                 }
-            ],
-            "11": [
-                {
-                    "courseId": 12,
-                    "courseName": "植物学实验1(五班分组03)",
-                    "room": "实验中心D区D209、D211",
-                    "teacher": "刘柏玲",
-                    "startTime": "21:00",
-                    "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ],
+            ]
+        },
+        "5": {
             "5": [
                 {
                     "courseId": 8,
@@ -4788,27 +4760,55 @@
                     "startTime": "09:00",
                     "endTime": "09:50"
                 }
-            ]
-        },
-        "7": {
+            ],
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
+                    "courseId": 12,
+                    "courseName": "植物学实验1(五班分组03)",
+                    "room": "实验中心D区D209、D211",
+                    "teacher": "刘柏玲",
                     "startTime": "19:00",
                     "endTime": "19:50"
                 }
             ],
             "10": [
                 {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
+                    "courseId": 12,
+                    "courseName": "植物学实验1(五班分组03)",
+                    "room": "实验中心D区D209、D211",
+                    "teacher": "刘柏玲",
                     "startTime": "20:00",
                     "endTime": "20:50"
+                }
+            ],
+            "11": [
+                {
+                    "courseId": 12,
+                    "courseName": "植物学实验1(五班分组03)",
+                    "room": "实验中心D区D209、D211",
+                    "teacher": "刘柏玲",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
                 }
             ]
         }
@@ -5144,7 +5144,49 @@
                 }
             ]
         },
+        "7": {
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -5173,48 +5215,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ]
-        },
-        "7": {
-            "9": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
                 }
             ]
         }
@@ -5478,7 +5478,49 @@
                 }
             ]
         },
+        "7": {
+            "9": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
+                }
+            ],
+            "10": [
+                {
+                    "courseId": 14,
+                    "courseName": "大学生职业规划",
+                    "room": "综合教学楼101",
+                    "teacher": "赵连栋",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
+                }
+            ]
+        },
         "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
             "9": [
                 {
                     "courseId": 12,
@@ -5507,48 +5549,6 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ]
-        },
-        "7": {
-            "9": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 14,
-                    "courseName": "大学生职业规划",
-                    "room": "综合教学楼101",
-                    "teacher": "赵连栋",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
                 }
             ]
         }
@@ -5782,58 +5782,6 @@
                 }
             ]
         },
-        "5": {
-            "9": [
-                {
-                    "courseId": 12,
-                    "courseName": "植物学实验1(五班分组03)",
-                    "room": "实验中心D区D209、D211",
-                    "teacher": "刘柏玲",
-                    "startTime": "19:00",
-                    "endTime": "19:50"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 12,
-                    "courseName": "植物学实验1(五班分组03)",
-                    "room": "实验中心D区D209、D211",
-                    "teacher": "刘柏玲",
-                    "startTime": "20:00",
-                    "endTime": "20:50"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 12,
-                    "courseName": "植物学实验1(五班分组03)",
-                    "room": "实验中心D区D209、D211",
-                    "teacher": "刘柏玲",
-                    "startTime": "21:00",
-                    "endTime": "21:50"
-                }
-            ],
-            "3": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "10:10",
-                    "endTime": "11:00"
-                }
-            ],
-            "4": [
-                {
-                    "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
-                    "room": "音乐学院B519",
-                    "teacher": "刘影",
-                    "startTime": "11:10",
-                    "endTime": "12:00"
-                }
-            ]
-        },
         "7": {
             "9": [
                 {
@@ -5853,6 +5801,28 @@
                     "teacher": "赵连栋",
                     "startTime": "20:00",
                     "endTime": "20:50"
+                }
+            ]
+        },
+        "5": {
+            "3": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "10:10",
+                    "endTime": "11:00"
+                }
+            ],
+            "4": [
+                {
+                    "courseId": 5,
+                    "courseName": "sb体育-排舞(生科）",
+                    "room": "音乐学院B519",
+                    "teacher": "刘影",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
                 }
             ]
         }
@@ -6062,7 +6032,7 @@
             "3": [
                 {
                     "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
+                    "courseName": "sb体育-排舞(生科）",
                     "room": "音乐学院B519",
                     "teacher": "刘影",
                     "startTime": "10:10",
@@ -6072,7 +6042,7 @@
             "4": [
                 {
                     "courseId": 5,
-                    "courseName": "体育-排舞(生科)",
+                    "courseName": "sb体育-排舞(生科）",
                     "room": "音乐学院B519",
                     "teacher": "刘影",
                     "startTime": "11:10",

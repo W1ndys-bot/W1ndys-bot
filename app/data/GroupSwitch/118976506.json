@@ -1,5 +1,5 @@
 {
-    "视频监控": true,
+    "视频监控": false,
     "违禁词监控": true,
     "知识库": true,
     "邀请链记录": true,
@@ -7,5 +7,7 @@
     "QFNU资产处监控": true,
     "打断复读": true,
     "关键词回复": true,
-    "kuakua": false
+    "kuakua": false,
+    "欢送": false,
+    "欢迎": false
 }
